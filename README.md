@@ -6,7 +6,7 @@ Kivy is an Open Source Python App development Framework.
 Install Kivy using,  
   - conda: ```conda install kivy -c conda-forge```  
   - pip: ```python -m pip install "kivy[base]" kivy_examples```  
-[source: ](https://kivy.org/doc/stable/gettingstarted/installation.html#install-pip)  
+[source](https://kivy.org/doc/stable/gettingstarted/installation.html#install-pip)  
 
 ## Screenshot:  
 ![screenshot.png](./imgs/pong.png)
